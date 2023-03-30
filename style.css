@@ -1,3 +1,308 @@
 body {
-  background-color: aliceblue;
+  background-color:mistyrose;
+  font-family: "Patrick Hand";
+  font-size:50px;
+  text-align: center;
+  
+
+ 
+}
+
+/* Headings */
+.Artist,.Song,.Date-Country,.Style,.Rating-Comments {
+    background-color:rosybrown; 
+    
+   }
+
+  
+  
+ 
+/* Table */
+
+.table-container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+.source {
+  text-align: center;
+
+
+}
+
+
+/* Artists */
+
+.Artist1 {
+  font-style: italic;
+  background-color:lightpink;
+  
+  
+}
+
+.Artist2 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist3 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist4 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist5 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist6 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist7 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist8 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+.Artist9 {
+  font-style: italic;
+  background-color:lightpink;
+}
+
+
+
+
+/* Songs */
+
+.Song1 {
+  font-weight:700;
+  background-color: seashell;
+}
+    
+.Song2 {
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song3 {
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song4 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song5 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song6 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song7 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song8 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+.Song9 {
+
+  font-weight: 700;
+  background-color: seashell;
+}
+
+
+
+
+/* Date and Country */
+
+.Date-Country1 {
+  background-color:lightpink;
+  font-style: italic;
+}
+
+.Date-Country2 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country3 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country4 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country5 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country6 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country7 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Date-Country8 {
+  background-color:lightpink;
+  font-style: italic;
+}
+
+.Date-Country9 {
+  background-color:lightpink;
+  font-style: italic;
+  
+}
+
+
+
+
+/* Style of Music */
+
+.Style1 {
+background-color: seashell;
+font-weight: 700;
+}
+.Style2 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style3 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style4 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style5 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style6 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style7 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style8{
+  background-color: seashell;
+  font-weight: 700;
+}
+
+.Style9 {
+  background-color: seashell;
+  font-weight: 700;
+}
+
+
+
+/* Rating and Comments */
+
+.Rating-Comments1 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments2 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments3 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments4 {
+  background-color:lightpink;
+  font-style: italic;
+}
+
+.Rating-Comments5{
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments6 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments7 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments8 {
+  background-color:lightpink;
+  font-style: italic;
+
+}
+
+.Rating-Comments9 {
+  background-color:lightpink;
+  font-style: italic;
+
 }
